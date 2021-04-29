@@ -9,7 +9,7 @@ const HeroSection = () => {
             <Herobg>
                 <Videobg autoPlay loop muted src={Video} type='video/mp4' />
             </Herobg>
-            <HeroContent>
+            {/* <HeroContent>
                 <HeroH1>Good Morning......</HeroH1>
                 <HeroP>Hello Everyone, Welcome to the Page</HeroP>
                 <HerobtnWrapper>
@@ -17,7 +17,7 @@ const HeroSection = () => {
                         Get Started {hover ? <ArrowForward /> : <ArrowRight />}
                     </Button>
                 </HerobtnWrapper>
-            </HeroContent>
+            </HeroContent> */}
         </HeroContainer>
     )
 }
