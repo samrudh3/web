@@ -1,0 +1,16 @@
+export const homeObjOne = {
+    id:'about',
+    lightBg:false,
+    lightText:true,
+    lightTextDesc:true,
+    topLine:'Premium Bank',
+    HeadLine:'wcjgdcwjh',
+    description:'wcmhjgcdhwshjBHJHBH',
+    buttonLabel:'Get',
+    imgStart: false,
+    img:require('../../images/abc.jpeg').default,
+    alt:'car',
+    dark:true,
+    primary:true,
+    darkText:false,
+};
